@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-Hello, I am Luyao Ren. I was born in Ningbo, Zhejiang, China.
-
-I am now doing research about software engineering at Peking University. My research interests include software engineering, programming languages, and systems. My research so far mainly focuses on boosting software maintenance and debugging by program analysis.
-
+Hello, I am Luyao Ren. 
 
 <!--
 **luyaor/luyaor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
